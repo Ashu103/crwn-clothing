@@ -27,7 +27,7 @@ const INITIAL_STATE = {
           },
           {
             title: 'mens',
-            imageUrl: 'https://scontent.fdel12-1.fna.fbcdn.net/v/t1.0-9/56505469_818956361790078_783596824442175488_o.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=Ll9PVvlrVuIAX_WGzJ_&_nc_ht=scontent.fdel12-1.fna&oh=722fac627d4c0563243b4d128deb2ab4&oe=5F66B4E2',
+            imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
             size: 'large',
             id: 5,
             linkUrl: 'shop/mens'
